@@ -1,3 +1,7 @@
+> [!NOTE]
+> **This repository has been consolidated into Mingyue Wanxiang:** https://github.com/SLAI-wanxiang-automl/Wanxiang
+> It is kept as a component history repository and is no longer maintained standalone. Please use the unified repository for code, docs and issues.
+
 [Chinese](README.md) | [English](README.en.md)
 
 <div align="center">
@@ -51,8 +55,8 @@ Install Git and Python 3.12 or later, and set up an Agent host such as Codex, Cl
 For example, clone the repository and start Codex:
 
 ```bash
-git clone https://github.com/keyingyang206/energyTSF.git
-cd energyTSF
+git clone https://github.com/SLAI-wanxiang-automl/Wanxiang.git
+cd Wanxiang/packages/energy-tsf
 codex
 ```
 

@@ -1,3 +1,7 @@
+> [!NOTE]
+> **本仓库已并入明月·万象（Mingyue Wanxiang）统一仓库：** https://github.com/SLAI-wanxiang-automl/Wanxiang
+> 本仓库作为组件历史仓库保留，不再单独维护。新代码、文档与 issue 请前往统一仓库。
+
 [Chinese](README.md) | [English](README.en.md)
 
 <div align="center">
@@ -52,8 +56,8 @@
 克隆仓库并启动 Codex：
 
 ```bash
-git clone https://github.com/keyingyang206/energyTSF.git
-cd energyTSF
+git clone https://github.com/SLAI-wanxiang-automl/Wanxiang.git
+cd Wanxiang/packages/energy-tsf
 codex
 ```
 首次使用或需要直接运行 CLI 时，再按项目依赖说明安装 Python 环境。
